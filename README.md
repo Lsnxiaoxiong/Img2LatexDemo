@@ -1,6 +1,6 @@
 # Img2LatexDemo
 
-
+git clone git@github.com:Lsnxiaoxiong/Img2LatexDemo.git
 
 ## 在线latex公式编辑器
 
